@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background-color: rgb(4, 20, 18);
+    border-radius: 15px;
+    height: 150px;
+    color: beige;
+    font-size: 20px;
+    font-weight: 700;
+    width: 100%;
+    box-shadow: 0px 0px 3px rgb(223, 223, 223);
+}
+
+.content{
+    background-color: rgb(15, 73, 63);
+    color: beige;
+}
